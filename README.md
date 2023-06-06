@@ -96,8 +96,8 @@ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
 - checking collision between the player and other Entity not working properly
 
 ## 🔥 TODO
-- [] new ntities
-- [] better menu
-- [] lvl management
-- [] flags pole
-- [] rewrite some of the code to be less junk
+- [ ] new ntities
+- [ ] better menu
+- [ ] lvl management
+- [ ] flags pole
+- [ ] rewrite some of the code to be less junk
